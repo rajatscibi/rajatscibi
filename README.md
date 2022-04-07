@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajatscibi
-- 👀 I’m interested in machine learning and data science at large
-- 🌱 I’m currently learning to build and deploy ml algorithms 
-- 💞️ I’m looking to collaborate on any ml related projects
+- 👀 I’m use applied statistics to bring out more value and insights from data
+- 🌱 I also create machine learning use cases for data mining purposes and advance analytics
+- 💞️ I love computer science, statistics, machine learning, graphic designing and photography
 - 📫 How to reach me -> discord -> rajatnano#3997
 
 <!---
