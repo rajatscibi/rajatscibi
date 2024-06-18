@@ -2,6 +2,7 @@
 - 👀 I use applied statistics to bring out more value and insights from data
 - 🌱 I also create machine learning use cases for data mining and advance analytics
 - 💞️ I love computer science, statistics, machine learning, graphic designing and photography
+- Pursuing Masters in Astrobiology fron University of Naples Federico II
 - 📫 How to reach me -> discord -> rajatnano#3997
 
 <!---
